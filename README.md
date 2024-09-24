@@ -1,6 +1,6 @@
 # an
 展示java作品
-
+                          wms是后端端口的代码，wms_web是vue写的展示的代码
 ![QQ截图20240922220924](https://github.com/user-attachments/assets/a7dad7e3-ab7d-4059-9104-be16f1d9b86b)
 ![QQ截图20240922220946](https://github.com/user-attachments/assets/184617d9-01ba-4621-87d8-23067e0ffe42)
 ![QQ截图20240922220955](https://github.com/user-attachments/assets/378adffa-8d04-4aa0-92f5-b7a515ff87a3)
